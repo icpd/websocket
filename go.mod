@@ -1,4 +1,4 @@
-module github.com/whoisixwebsocket
+module github.com/icpd/websocket
 
 go 1.14
 
